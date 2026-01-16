@@ -20,8 +20,6 @@ I'm a developer and entrepreneur based in Argentina, passionate about building i
 ## Current Projects
 
 - **IngenioArgento** - AI automation agency and digital solutions
-- **ENSI Asistente** - Intelligent document assistant with voice capabilities
-- **MSP Tools** - Custom tooling for managed service providers
 
 ## Links
 
