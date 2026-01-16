@@ -15,7 +15,7 @@ I'm a developer and entrepreneur based in Argentina, passionate about building i
 **Backend:** Node.js, FastAPI, n8n  
 **AI/ML:** OpenAI, Gemini, LangChain, Whisper  
 **Databases:** PostgreSQL, Supabase  
-**Infrastructure:** Docker, Caddy, Hetzner VPS  
+**Infrastructure:** Docker, Caddy, Hostinger VPS  
 
 ## Current Projects
 
